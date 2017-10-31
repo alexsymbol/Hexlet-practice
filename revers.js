@@ -6,6 +6,6 @@ const reverse = (str) =>{
 		result += str[i];
   	} 
   
-	return result;
+	return result; 
   
 };
